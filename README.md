@@ -24,4 +24,6 @@
   - `List<Integer> createRangeList(int from, int to)` - generate a sequence of numbers within `from` and `to` bounds inclusive considering `step` equal to 1
 <hr>
 
-### All the task must be done with Stream API.
+### Pay attention
+For EmployeeService get the employees from `employeeRepository`. It will be mocked during unit testing.<br>
+All the task must be done with Stream API.
