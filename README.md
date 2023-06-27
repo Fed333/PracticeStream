@@ -8,7 +8,7 @@
   - `<T extends Comparable<T>> T min(List<T> list)` - calculating minimum value of the list
   - `Double sum(List<Double> list)` - calculating sum of all elements in the list
   - `Double avg(List<Double> list)` - calculating average value of the list
-  - `Integer countEven(List<Integer> list)` - calculating count of event numbers in the list
+  - `Integer countEven(List<Integer> list)` - calculating count of even numbers in the list
   - `Integer countOdd(List<Integer> list)` - calculating count of odd numbers in the list
   - `Long multiply(List<Integer> list)` - calculating multiplying of all elements in the list
 * EmployeeService:
