@@ -1,8 +1,6 @@
 # Stream API Practicing
-<hr>
  
 ## This Java project contains services needed to implement, see `org.mentoring.practice.stream.service.impl` package. <br> The implementations are covered with unit tests to check the correctness.
-<hr>
 
 ### Issues
 * CollectionMathService:
